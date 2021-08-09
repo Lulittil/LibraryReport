@@ -1,0 +1,15 @@
+C:\Users\forwo\source\repos\LibraryReport\LibraryReport\bin\Debug\LibraryReport.exe.config
+C:\Users\forwo\source\repos\LibraryReport\LibraryReport\bin\Debug\LibraryReport.exe
+C:\Users\forwo\source\repos\LibraryReport\LibraryReport\bin\Debug\LibraryReport.pdb
+C:\Users\forwo\source\repos\LibraryReport\LibraryReport\obj\Debug\LibraryReport.AddBook.resources
+C:\Users\forwo\source\repos\LibraryReport\LibraryReport\obj\Debug\LibraryReport.Form1.resources
+C:\Users\forwo\source\repos\LibraryReport\LibraryReport\obj\Debug\LibraryReport.Properties.Resources.resources
+C:\Users\forwo\source\repos\LibraryReport\LibraryReport\obj\Debug\LibraryReport.csproj.GenerateResource.cache
+C:\Users\forwo\source\repos\LibraryReport\LibraryReport\obj\Debug\LibraryReport.csproj.CoreCompileInputs.cache
+C:\Users\forwo\source\repos\LibraryReport\LibraryReport\obj\Debug\LibraryReport.exe
+C:\Users\forwo\source\repos\LibraryReport\LibraryReport\obj\Debug\LibraryReport.pdb
+C:\Users\forwo\source\repos\LibraryReport\LibraryReport\obj\Debug\LibraryReport.csprojAssemblyReference.cache
+C:\Users\forwo\source\repos\LibraryReport\LibraryReport\obj\Debug\LibraryReport.SellingBooks.resources
+C:\Users\forwo\source\repos\LibraryReport\LibraryReport\obj\Debug\LibraryReport.ShowBooks.resources
+C:\Users\forwo\source\repos\LibraryReport\LibraryReport\obj\Debug\LibraryReport.Sellings.resources
+C:\Users\forwo\source\repos\LibraryReport\LibraryReport\obj\Debug\LibraryReport.VP.resources
